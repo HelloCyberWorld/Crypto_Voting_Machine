@@ -1,0 +1,37 @@
+{
+    "votant" : [
+
+            {   
+                "prenom" : "nassim",
+
+                "nom" : "Benmalek",
+
+                "email" : "nassim.benmalek@utt.fr"
+
+
+            },
+
+            {   
+                "prenom" : "amine",
+
+                "nom" : "Bouzid",
+
+                "email" : "amine.bouzid@utt.fr"
+
+
+            },
+
+            {   
+                "prenom" : "remi",
+
+                "nom" : "Cogranne",
+
+                "email" : "remi.cogranne@utt.fr"
+
+            }
+
+
+    ]
+
+
+}

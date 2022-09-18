@@ -1,0 +1,19 @@
+{
+    
+    "nom" : "",
+
+    "type" : 1,
+    
+    "questions" : [
+
+            {   
+                "question" : "conseiller départemental",
+
+                "reponses" : [ "Jean Amadou", "Mickael Jackson", "Spiderman"]
+
+            }
+
+    ]
+
+
+}
